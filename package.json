@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-hw1",
+  "version": "1.0.0",
+  "description": "try-to-do-something",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "vladyslav smorodinov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
